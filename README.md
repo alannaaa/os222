@@ -1,2 +1,3 @@
 # os222
-Operating Systems 2022-2
+# 👋🏻 Hello!
+Welcome to Alanna's Operating Systems Page
