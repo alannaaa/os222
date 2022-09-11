@@ -13,3 +13,18 @@ ZCZC W00 100 L10 Assignment #00
 ZCZC W00 20 L21 Trying something
 ZCZC W00 15 L32 YouTube: watching OS related topics, etc.
 ZCZC W00 10 L41 TXT/mylog.txt related.
+ZCZC W01 50 L01 SCELE/Discord related
+ZCZC W01 215 L02 Attended OS class Zoom Meeting
+ZCZC W01 15 L04 Edited GitHub Page
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 90 L08 OS Chat related (Discord with friends, consultation with Asdos)
+ZCZC W01 50 L11 Assignment #01
+ZCZC W01 55 L12 Assignment #02
+ZCZC W01 45 L13 Assignment #03
+ZCZC W01 95 L14 Assignment #04
+ZCZC W01 60 L21 Trying something (Troubleshooting assignment problems)
+ZCZC W01 10 L22 Quiz
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 20 L41 TXT/mylog.txt related.
+ZCZC W01 20 L64 Helping a friend with OS Assignment
