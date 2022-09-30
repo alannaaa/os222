@@ -2,6 +2,8 @@
 permalink: /LINKS/
 ---
 # 🔗 LINKS
+
+## 🍄 Week 01 & Week 02
 1. [YouTube Playlist by Neso Academy: Basics of OS | Chapter-1 | Operating System](https://youtube.com/playlist?list=PLBlnK6fEyqRhDsKg2oXhVuN5z_1ysjJyg)<br>
 A great YouTube Playlist for learning the basics of Operating Systems. It's easy to keep up with and covers a lot of important materials.
 
@@ -11,8 +13,17 @@ This page covers basic Linux commands that we will (and probably have!) encounte
 3. [Linux For Dummies Cheat Sheet](https://www.dummies.com/article/technology/computers/operating-systems/linux/linux-for-dummies-cheat-sheet-209505/)<br>
 A no-frills cheatsheet that covers the most essential commands. Similar to number 3, this will help in navigating the seemingly complex Linux environment.
 
+## 📡 Week 03
 4. [What Is a File System?](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
 This article explains the types of computer file systems and how they work. The examples mentioned are also helpful and makes it easier for readers to fully grasp the concept.
 
 5. [Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
 FUSE lets you develop a fully functional filesystem that has a simple API library, can be accessed by non-privileged users, and provides a secure implementation. Learn how to develop your own here.
+
+## 🦎 Week 04
+6. [All About C Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+For those struggling to grasp the concept of pointers, this website makes learning about pointers in C simple and fun! It is useful to learn about it because some tasks are performed more easily with pointers, and other tasks, such as dynamic memory allocation, cannot be performed without using pointers.
+7. [Handy List of Format Specifiers](https://www.tutorialspoint.com/format-specifiers-in-c)<br>
+The format specifiers are used in C for input and output purposes. This is (to my knowledge) one of the most comprehensive list! It includes most specifiers you may need when programming in C.
+8. [Exercise: Accessing Memory Locations](https://www.geeksforgeeks.org/output-of-c-programs-set-66-accessing-memory-locations/?ref=rp)<br>
+Try these problems to see if you understand the concept of memory locations and how to access it! There are 10 questions and their answers, explanations included.
