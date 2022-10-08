@@ -53,14 +53,27 @@ ZCZC W03 60 L12 Assignment #02
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 55 L40 TXT/ related in general.
 ZCZC W03 65 L43 TXT/myrank.tex related, including peer review.
-ZCZC W03 30 L01 SCELE/Discord related
-ZCZC W03 200 L02 ZOOM meetings related
-ZCZC W03 30 L03 GitHub and git related, including commit, push, pull
-ZCZC W03 60 L05 Quiz related including studying
-ZCZC W03 45 L06 References/Books/Documents/Browsing/GSGS related
-ZCZC W03 45 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
-ZCZC W03 120 L11 Assignment #01
-ZCZC W03 65 L12 Assignment #02
-ZCZC W03 65 L13 Assignment #03
-ZCZC W03 60 L40 TXT/ related in general.
-ZCZC W03 50 L43 TXT/myrank.txt related, including peer review.
+ZCZC W04 30 L01 SCELE/Discord related
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 45 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W04 120 L11 Assignment #01
+ZCZC W04 65 L12 Assignment #02
+ZCZC W04 65 L13 Assignment #03
+ZCZC W04 60 L40 TXT/ related in general.
+ZCZC W04 50 L43 TXT/myrank.txt related, including peer review.
+ZCZC W05 30 L01 SCELE/Discord related
+ZCZC W05 200 L02 ZOOM meetings related
+ZCZC W05 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 45 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W05 60 L11 Assignment #01
+ZCZC W05 45 L12 Assignment #02
+ZCZC W05 45 L13 Assignment #03
+ZCZC W05 45 L13 Assignment #04
+ZCZC W05 45 L13 Assignment #05
+ZCZC W05 60 L40 TXT/ related in general.
+ZCZC W05 50 L43 TXT/myrank.txt related, including peer review.
