@@ -31,5 +31,5 @@ Try these problems to see if you understand the concept of memory locations and 
 ## 🎺 Week 05
 9. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Learn more about virtual memory from this page. It's useful to learn the concept of swapping, demand paging, etc.
-10. [Memory Allocation Algorithms (Video)](https://www.youtube.com/watch?v=N3rG_1CEQkQ)<br>
+10. [Memory Allocation Algorithms (Video)](https://www.youtube.com/watch?v=N3rG_1CEQkQ)</br>
 Simple video to learn about memory management. This video covers First Fit, Next Fit, Best Fit, Worst fit Memory Allocation.
