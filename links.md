@@ -33,3 +33,9 @@ Try these problems to see if you understand the concept of memory locations and 
 Learn more about virtual memory from this page. It's useful to learn the concept of swapping, demand paging, etc.
 10. [Memory Allocation Algorithms (Video)](https://www.youtube.com/watch?v=N3rG_1CEQkQ)<br>
 Simple video to learn about memory management. This video covers First Fit, Next Fit, Best Fit, Worst fit Memory Allocation.
+
+# 🍳 Week 06
+11. [Understanding fork() system call for new process creation](https://www.youtube.com/watch?v=PwxTbksJ2fo)<br>
+One of the best explanations of fork() on the internet. The video is quite short but it helped me a lot with my understandin of fork().
+12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)
+Brief explanation on concurrency in OS. You can learn more about all the advantages and drawbacks of concurrency.
