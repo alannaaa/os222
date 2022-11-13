@@ -39,3 +39,9 @@ Simple video to learn about memory management. This video covers First Fit, Next
 One of the best explanations of fork() on the internet. The video is quite short but it helped me a lot with my understandin of fork().
 12. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/#:~:text=Concurrency%20is%20the%20execution%20of,shared%20memory%20or%20message%20passing.)
 Brief explanation on concurrency in OS. You can learn more about all the advantages and drawbacks of concurrency.
+
+# ❄️ Week 07
+13. [Deadlock in Operating Systems](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
+Video explaining what a deadlock is in Operating systems. It also discuss what conditions result in deadlocks and several strategies for handling deadlocks.
+14. [Process Synchronization in C/C++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus)<br>
+What exactly is process synchronization? Read more about it in the link above.
