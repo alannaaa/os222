@@ -45,3 +45,9 @@ Brief explanation on concurrency in OS. You can learn more about all the advanta
 Video explaining what a deadlock is in Operating systems. It also discuss what conditions result in deadlocks and several strategies for handling deadlocks.
 14. [Process Synchronization in C/C++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus)<br>
 What exactly is process synchronization? Read more about it in the link above.
+
+# 🔱 Week 08
+15. [Youtube Playlist: LFS in Bahasa Indonesia](https://youtube.com/playlist?list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP)<br>
+A playlist covering LFS 11.0 in Bahasa Indonesia. Even though Kernotex's playlist is easier to follow, this playlist could also be helpful for us Indonesians!
+16. [Process Scheduling in Operating Systems](https://www.geeksforgeeks.org/process-schedulers-in-operating-system/)<br>
+GeeksforGeeks article on Process Scheduling. Introduces the types of process scheduler and more.
